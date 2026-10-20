@@ -1,0 +1,7 @@
+numpy
+opencv-python
+pandas
+matplotlib
+tabulate
+ultralytics   # YOLOv8 for the AI-based method (pulls in PyTorch)
+# plus FFmpeg with libx264 on your PATH (not a pip package)
